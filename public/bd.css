@@ -1,0 +1,18 @@
+p{
+    text-align: center;
+    font-size: 25px;
+    color: #0EB1D2
+}
+#uping{
+    text-align: center;
+    color: #8a2be2;
+}
+#image{
+    text-align: center;
+}
+footer{
+    font-size: 10px;
+}
+*{
+    background-color: aqua;
+}

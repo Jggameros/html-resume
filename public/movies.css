@@ -1,0 +1,22 @@
+img[alt="A donnie Darko Poster"]{
+    width: 300px;
+    height: 300px;
+}
+
+img{
+    width: 300px;
+    height: 400px;
+}
+.poster{
+    text-align: center;
+}
+*{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+footer{
+    text-align: start;
+    font-size: 10px;
+}

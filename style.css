@@ -1,0 +1,49 @@
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+html{
+    background-color: #2D4356;
+}
+
+h1{
+    color: #6596ad; 
+    font-size: 65px; 
+    text-align: center;
+    font-weight: 900;
+}
+
+h2{
+    color: #6596ad;
+    font-weight:normal;
+}
+
+p {
+    color: rgb(14, 139, 143);
+    text-align: left;
+    text-align: justify;
+}
+
+.centrific{
+    text-align: center;
+}
+
+.image{
+    text-align: center;
+}
+
+#workexp{
+    text-align: center;
+}
+
+footer{
+    color: black;
+    font-size: 10px;
+    text-align: start;
+}
+
+
+li{
+    color: #EAB2A0;
+}
+
