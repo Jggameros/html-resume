@@ -1,7 +1,27 @@
 *{
     text-align: center;
+    background-color: #EDF2F4;
+    font-family: 'Oswald', sans-serif;
 }
+
 footer{
     text-align: start;
     font-size: 10px;
+    background-color: #4A7B9D;
+}
+
+a{
+    color: #4A7B9D;
+}
+
+img[alt="a list with awful movies"]{
+    border: 3px solid black;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+img[alt="a cake with a list"]{
+    border: 3px solid black;
+    margin-top: 5px;
+    margin-bottom: 0px;
 }

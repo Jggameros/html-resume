@@ -1,18 +1,44 @@
 p{
     text-align: center;
     font-size: 25px;
-    color: #0EB1D2
+    color: #FCAF58
 }
-#uping{
+h1{
     text-align: center;
-    color: #8a2be2;
+    color: #FF8C42;
+    font-family: 'Lemon', serif;
 }
-#image{
+
+h2{
     text-align: center;
+    color: #FF8C42;
+    font-family: 'Lemon', serif;
+}
+
+#imag{
+    text-align: center;
+}
+
+#imag img{
+    border: 5px solid #54577C;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0;
 }
 footer{
     font-size: 10px;
+    color: #FCAF58;
+    background-color: #4A7B9D;
 }
 *{
-    background-color: aqua;
+    background-color: #dceeee;
+    font-family: 'Karla', sans-serif;
+}
+
+li{
+    color: #4A7B9D;
+}
+
+#link{
+    text-align: center;
 }

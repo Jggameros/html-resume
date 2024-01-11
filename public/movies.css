@@ -1,6 +1,15 @@
 img[alt="A donnie Darko Poster"]{
     width: 300px;
     height: 300px;
+    border: 2px solid white;
+}
+
+img[alt="ashton kutcher in butterfly effect movie poster"]{
+    border: 2px solid white;
+}
+
+img[alt="netflix poster"]{
+    border: 2px solid white;
 }
 
 img{
@@ -10,13 +19,25 @@ img{
 .poster{
     text-align: center;
 }
+h2{
+    color: #F96D00;
+}
+
+
+h1{
+    font-family: 'Bungee Spice', sans-serif;
+}
 *{
     text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #393E46;
 }
 p{
     font-size: 20px;
+    color: #F2F2F2;
 }
 footer{
     text-align: start;
     font-size: 10px;
+    background-color: #F96D00;
 }
